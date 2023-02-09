@@ -1,1 +1,1 @@
-i explain the whole of the shell project
+this deal in shell permissions
