@@ -1,2 +1,1 @@
-#!/bin/bash
-File -C -m school.mgc
+echo '0 string SCHOOL' > /usr/share/magic/school.mgc
